@@ -1,0 +1,9 @@
+INFO 2024-01-20 19:31:35,461 autoreload  Watching for file changes with StatReloader
+INFO 2024-01-20 19:35:19,792 autoreload  C:\Users\User\NewsPaper\news\urls.py changed, reloading.
+INFO 2024-01-20 19:35:21,546 autoreload  Watching for file changes with StatReloader
+INFO 2024-01-20 19:37:31,643 autoreload  C:\Users\User\NewsPaper\news\urls.py changed, reloading.
+INFO 2024-01-20 19:37:33,911 autoreload  Watching for file changes with StatReloader
+INFO 2024-01-20 19:39:59,299 autoreload  C:\Users\User\NewsPaper\news\urls.py changed, reloading.
+INFO 2024-01-20 19:40:01,267 autoreload  Watching for file changes with StatReloader
+INFO 2024-01-20 19:44:10,169 autoreload  C:\Users\User\NewsPaper\news\urls.py changed, reloading.
+INFO 2024-01-20 19:44:11,812 autoreload  Watching for file changes with StatReloader
